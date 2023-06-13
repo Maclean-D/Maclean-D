@@ -1,1 +1,3 @@
-![Maclean-D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maclean-D&count_private=true&show_icons=true&bg_color=DEG,f98c28,e0545f,c945a0,ad3f95,9a92af,98a8af&title_color=ffffff)
+![Maclean-D's Stats](https://github-readme-stats.vercel.app/api?username=Maclean-D&theme=omni&show_icons=true&hide_border=true&count_private=true)
+![Maclean-D's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maclean-D&theme=omni&hide_border=true)
+![Maclean-D's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maclean-D&theme=omni&show_icons=true&hide_border=true&layout=compact)
